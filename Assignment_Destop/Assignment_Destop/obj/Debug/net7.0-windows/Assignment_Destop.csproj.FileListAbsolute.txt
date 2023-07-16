@@ -1,0 +1,161 @@
+C:\Users\kithu krishna\source\repos\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.csproj.AssemblyReference.cache
+C:\Users\kithu krishna\source\repos\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\kithu krishna\source\repos\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\NewWindow.g.cs
+C:\Users\kithu krishna\source\repos\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\kithu krishna\source\repos\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\kithu krishna\source\repos\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop_MarkupCompile.cache
+C:\Users\kithu krishna\source\repos\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop_MarkupCompile.lref
+C:\Users\kithu krishna\source\repos\Assignment_Destop\Assignment_Destop\bin\Debug\net7.0-windows\Assignment_Destop.exe
+C:\Users\kithu krishna\source\repos\Assignment_Destop\Assignment_Destop\bin\Debug\net7.0-windows\Assignment_Destop.deps.json
+C:\Users\kithu krishna\source\repos\Assignment_Destop\Assignment_Destop\bin\Debug\net7.0-windows\Assignment_Destop.runtimeconfig.json
+C:\Users\kithu krishna\source\repos\Assignment_Destop\Assignment_Destop\bin\Debug\net7.0-windows\Assignment_Destop.dll
+C:\Users\kithu krishna\source\repos\Assignment_Destop\Assignment_Destop\bin\Debug\net7.0-windows\Assignment_Destop.pdb
+C:\Users\kithu krishna\source\repos\Assignment_Destop\Assignment_Destop\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\kithu krishna\source\repos\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\kithu krishna\source\repos\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\NewWindow.baml
+C:\Users\kithu krishna\source\repos\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.g.resources
+C:\Users\kithu krishna\source\repos\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kithu krishna\source\repos\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.AssemblyInfoInputs.cache
+C:\Users\kithu krishna\source\repos\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.AssemblyInfo.cs
+C:\Users\kithu krishna\source\repos\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.csproj.CoreCompileInputs.cache
+C:\Users\kithu krishna\source\repos\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.csproj.CopyComplete
+C:\Users\kithu krishna\source\repos\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.dll
+C:\Users\kithu krishna\source\repos\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\refint\Assignment_Destop.dll
+C:\Users\kithu krishna\source\repos\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.pdb
+C:\Users\kithu krishna\source\repos\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.genruntimeconfig.cache
+C:\Users\kithu krishna\source\repos\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\ref\Assignment_Destop.dll
+C:\Users\Infas_NM\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.csproj.AssemblyReference.cache
+C:\Users\Infas_NM\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\NewWindow.g.cs
+C:\Users\Infas_NM\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Infas_NM\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Infas_NM\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop_MarkupCompile.cache
+C:\Users\Infas_NM\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop_MarkupCompile.lref
+C:\Users\Infas_NM\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.dll
+C:\Users\Infas_NM\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\refint\Assignment_Destop.dll
+C:\Users\Infas_NM\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.pdb
+C:\Users\Infas_NM\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\bin\Debug\net7.0-windows\Assignment_Destop.exe
+C:\Users\Infas_NM\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\bin\Debug\net7.0-windows\Assignment_Destop.deps.json
+C:\Users\Infas_NM\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\bin\Debug\net7.0-windows\Assignment_Destop.runtimeconfig.json
+C:\Users\Infas_NM\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\bin\Debug\net7.0-windows\Assignment_Destop.dll
+C:\Users\Infas_NM\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\bin\Debug\net7.0-windows\Assignment_Destop.pdb
+C:\Users\Infas_NM\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Infas_NM\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Infas_NM\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\App.baml
+C:\Users\Infas_NM\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Infas_NM\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\NewWindow.baml
+C:\Users\Infas_NM\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.g.resources
+C:\Users\Infas_NM\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Infas_NM\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.AssemblyInfoInputs.cache
+C:\Users\Infas_NM\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.AssemblyInfo.cs
+C:\Users\Infas_NM\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.csproj.CoreCompileInputs.cache
+C:\Users\Infas_NM\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.csproj.CopyComplete
+C:\Users\Infas_NM\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.genruntimeconfig.cache
+C:\Users\Infas_NM\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\ref\Assignment_Destop.dll
+C:\Users\DELL\OneDrive\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\bin\Debug\net7.0-windows\Assignment_Destop.exe
+C:\Users\DELL\OneDrive\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\bin\Debug\net7.0-windows\Assignment_Destop.deps.json
+C:\Users\DELL\OneDrive\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\bin\Debug\net7.0-windows\Assignment_Destop.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\bin\Debug\net7.0-windows\Assignment_Destop.dll
+C:\Users\DELL\OneDrive\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\bin\Debug\net7.0-windows\Assignment_Destop.pdb
+C:\Users\DELL\OneDrive\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\DELL\OneDrive\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\DELL\OneDrive\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\NewWindow.g.cs
+C:\Users\DELL\OneDrive\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\DELL\OneDrive\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\DELL\OneDrive\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop_MarkupCompile.cache
+C:\Users\DELL\OneDrive\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop_MarkupCompile.lref
+C:\Users\DELL\OneDrive\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\App.baml
+C:\Users\DELL\OneDrive\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\DELL\OneDrive\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\NewWindow.baml
+C:\Users\DELL\OneDrive\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.g.resources
+C:\Users\DELL\OneDrive\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.csproj.CopyComplete
+C:\Users\DELL\OneDrive\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.dll
+C:\Users\DELL\OneDrive\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\refint\Assignment_Destop.dll
+C:\Users\DELL\OneDrive\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.pdb
+C:\Users\DELL\OneDrive\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Desktop\Assignment_Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\ref\Assignment_Destop.dll
+C:\Users\DELL\OneDrive\Desktop\Assignment_Nw Destop\Assignment_Destop\Assignment_Destop\bin\Debug\net7.0-windows\Assignment_Destop.exe
+C:\Users\DELL\OneDrive\Desktop\Assignment_Nw Destop\Assignment_Destop\Assignment_Destop\bin\Debug\net7.0-windows\Assignment_Destop.deps.json
+C:\Users\DELL\OneDrive\Desktop\Assignment_Nw Destop\Assignment_Destop\Assignment_Destop\bin\Debug\net7.0-windows\Assignment_Destop.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\Assignment_Nw Destop\Assignment_Destop\Assignment_Destop\bin\Debug\net7.0-windows\Assignment_Destop.dll
+C:\Users\DELL\OneDrive\Desktop\Assignment_Nw Destop\Assignment_Destop\Assignment_Destop\bin\Debug\net7.0-windows\Assignment_Destop.pdb
+C:\Users\DELL\OneDrive\Desktop\Assignment_Nw Destop\Assignment_Destop\Assignment_Destop\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\DELL\OneDrive\Desktop\Assignment_Nw Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\Assignment_Nw Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\DELL\OneDrive\Desktop\Assignment_Nw Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\NewWindow.g.cs
+C:\Users\DELL\OneDrive\Desktop\Assignment_Nw Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\DELL\OneDrive\Desktop\Assignment_Nw Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\DELL\OneDrive\Desktop\Assignment_Nw Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop_MarkupCompile.cache
+C:\Users\DELL\OneDrive\Desktop\Assignment_Nw Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop_MarkupCompile.lref
+C:\Users\DELL\OneDrive\Desktop\Assignment_Nw Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\App.baml
+C:\Users\DELL\OneDrive\Desktop\Assignment_Nw Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\DELL\OneDrive\Desktop\Assignment_Nw Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\NewWindow.baml
+C:\Users\DELL\OneDrive\Desktop\Assignment_Nw Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.g.resources
+C:\Users\DELL\OneDrive\Desktop\Assignment_Nw Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\Assignment_Nw Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Assignment_Nw Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\Assignment_Nw Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Assignment_Nw Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.csproj.CopyComplete
+C:\Users\DELL\OneDrive\Desktop\Assignment_Nw Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.dll
+C:\Users\DELL\OneDrive\Desktop\Assignment_Nw Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\refint\Assignment_Destop.dll
+C:\Users\DELL\OneDrive\Desktop\Assignment_Nw Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.pdb
+C:\Users\DELL\OneDrive\Desktop\Assignment_Nw Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Desktop\Assignment_Nw Destop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\ref\Assignment_Destop.dll
+E:\Assignment_Nw Dekstop\Assignment_Destop\Assignment_Destop\bin\Debug\net7.0-windows\Assignment_Destop.exe
+E:\Assignment_Nw Dekstop\Assignment_Destop\Assignment_Destop\bin\Debug\net7.0-windows\Assignment_Destop.deps.json
+E:\Assignment_Nw Dekstop\Assignment_Destop\Assignment_Destop\bin\Debug\net7.0-windows\Assignment_Destop.runtimeconfig.json
+E:\Assignment_Nw Dekstop\Assignment_Destop\Assignment_Destop\bin\Debug\net7.0-windows\Assignment_Destop.dll
+E:\Assignment_Nw Dekstop\Assignment_Destop\Assignment_Destop\bin\Debug\net7.0-windows\Assignment_Destop.pdb
+E:\Assignment_Nw Dekstop\Assignment_Destop\Assignment_Destop\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+E:\Assignment_Nw Dekstop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.csproj.AssemblyReference.cache
+E:\Assignment_Nw Dekstop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\MainWindow.g.cs
+E:\Assignment_Nw Dekstop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\NewWindow.g.cs
+E:\Assignment_Nw Dekstop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\App.g.cs
+E:\Assignment_Nw Dekstop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\Assignment_Nw Dekstop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop_MarkupCompile.cache
+E:\Assignment_Nw Dekstop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop_MarkupCompile.lref
+E:\Assignment_Nw Dekstop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\App.baml
+E:\Assignment_Nw Dekstop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\MainWindow.baml
+E:\Assignment_Nw Dekstop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\NewWindow.baml
+E:\Assignment_Nw Dekstop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.g.resources
+E:\Assignment_Nw Dekstop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.GeneratedMSBuildEditorConfig.editorconfig
+E:\Assignment_Nw Dekstop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.AssemblyInfoInputs.cache
+E:\Assignment_Nw Dekstop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.AssemblyInfo.cs
+E:\Assignment_Nw Dekstop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.csproj.CoreCompileInputs.cache
+E:\Assignment_Nw Dekstop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.csproj.CopyComplete
+E:\Assignment_Nw Dekstop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.dll
+E:\Assignment_Nw Dekstop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\refint\Assignment_Destop.dll
+E:\Assignment_Nw Dekstop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.pdb
+E:\Assignment_Nw Dekstop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.genruntimeconfig.cache
+E:\Assignment_Nw Dekstop\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\ref\Assignment_Destop.dll
+C:\Users\Admin\Downloads\individual.final\individual.final\Assignment_Destop\Assignment_Destop\bin\Debug\net7.0-windows\Assignment_Destop.exe
+C:\Users\Admin\Downloads\individual.final\individual.final\Assignment_Destop\Assignment_Destop\bin\Debug\net7.0-windows\Assignment_Destop.deps.json
+C:\Users\Admin\Downloads\individual.final\individual.final\Assignment_Destop\Assignment_Destop\bin\Debug\net7.0-windows\Assignment_Destop.runtimeconfig.json
+C:\Users\Admin\Downloads\individual.final\individual.final\Assignment_Destop\Assignment_Destop\bin\Debug\net7.0-windows\Assignment_Destop.dll
+C:\Users\Admin\Downloads\individual.final\individual.final\Assignment_Destop\Assignment_Destop\bin\Debug\net7.0-windows\Assignment_Destop.pdb
+C:\Users\Admin\Downloads\individual.final\individual.final\Assignment_Destop\Assignment_Destop\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Admin\Downloads\individual.final\individual.final\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\individual.final\individual.final\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Admin\Downloads\individual.final\individual.final\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\NewWindow.g.cs
+C:\Users\Admin\Downloads\individual.final\individual.final\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Admin\Downloads\individual.final\individual.final\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Admin\Downloads\individual.final\individual.final\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop_MarkupCompile.cache
+C:\Users\Admin\Downloads\individual.final\individual.final\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop_MarkupCompile.lref
+C:\Users\Admin\Downloads\individual.final\individual.final\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\App.baml
+C:\Users\Admin\Downloads\individual.final\individual.final\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Admin\Downloads\individual.final\individual.final\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\NewWindow.baml
+C:\Users\Admin\Downloads\individual.final\individual.final\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.g.resources
+C:\Users\Admin\Downloads\individual.final\individual.final\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\individual.final\individual.final\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\individual.final\individual.final\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.AssemblyInfo.cs
+C:\Users\Admin\Downloads\individual.final\individual.final\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\individual.final\individual.final\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.csproj.CopyComplete
+C:\Users\Admin\Downloads\individual.final\individual.final\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.dll
+C:\Users\Admin\Downloads\individual.final\individual.final\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\refint\Assignment_Destop.dll
+C:\Users\Admin\Downloads\individual.final\individual.final\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.pdb
+C:\Users\Admin\Downloads\individual.final\individual.final\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\Assignment_Destop.genruntimeconfig.cache
+C:\Users\Admin\Downloads\individual.final\individual.final\Assignment_Destop\Assignment_Destop\obj\Debug\net7.0-windows\ref\Assignment_Destop.dll

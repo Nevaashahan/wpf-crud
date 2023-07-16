@@ -1,0 +1,419 @@
+﻿<Window
+    x:Class="Assignment_Destop.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:Assignment_Destop"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="Students Details"
+    AllowsTransparency="True"
+    Background="Transparent"
+    WindowStartupLocation="CenterScreen"
+    WindowStyle="None"
+    mc:Ignorable="d">
+
+    <!-- ... Remaining XAML code ... -->
+
+
+
+
+<Window.DataContext>
+        <local:CollectionWindow />
+    </Window.DataContext>
+    
+
+
+
+
+    <StackPanel
+        Width="519"
+        Height="540"
+        HorizontalAlignment="Center"
+        VerticalAlignment="Center">
+        <StackPanel.Background>
+            <LinearGradientBrush StartPoint="0 0" EndPoint="1 1">
+                <GradientStop Offset="0" Color="Black" />
+                <GradientStop Offset="1" Color="#0D68A6" />
+            </LinearGradientBrush>
+        </StackPanel.Background>
+        <Canvas>
+
+            <Grid>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Top" >
+                    <!-- Minimize Button -->
+                    <Button x:Name="btnMinimize"
+                Width="30"
+                Height="20"
+                Click="Minimize_Click"
+                Content="-"
+                Cursor="Hand"
+                Background="Green"
+                Foreground="White"
+                BorderThickness="0"
+                FontSize="16"
+                FontFamily="Arial"
+                Padding="0"
+                Margin="0,0,0,0" />
+
+                    <!-- Maximize Button -->
+                    <Button x:Name="btnMaximize"
+                Width="30"
+                Height="20"
+                Click="Maximize_Click"
+                Content="◻"
+                Cursor="Hand"
+                Background="Yellow"
+                Foreground="White"
+                BorderThickness="0"
+                FontSize="16"
+                FontFamily="Arial"
+                Padding="0"
+                Margin="0,0,0,0" />
+
+                    <Button x:Name="btnClose"
+                Width="30"
+                Height="20"
+                Click="ShutDown_Click"
+                Content="X"
+                Cursor="Hand"
+                Background="red"
+                Foreground="White"
+                BorderThickness="0"
+                FontSize="16"
+                FontFamily="Arial"
+                Padding="0"
+                Margin="0,0,0,0" />
+                </StackPanel>
+            </Grid>
+
+
+
+        </Canvas>
+
+
+        <Image Width="86"
+               Height="80"
+               Margin="20 -20 0 -10"
+                Source="E:\Assignment_Nw Dekstop\Assignment_Destop\Assignment_Destop\Images\icons\logo_seo.png" HorizontalAlignment="Left" />
+        <TextBlock Text="Mathematics Education Centre"
+                   Foreground="White"
+                   Margin="50 -30 0 0"
+                   FontWeight="Bold"
+                   FontFamily="Arial"
+                   FontSize="22"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Center"
+                   Width="400"/>
+
+
+ 
+
+
+
+
+
+
+
+
+
+        <StackPanel
+            Width="400"
+            Height="40"
+            HorizontalAlignment="Left"
+            Background="Transparent"
+            Orientation="Vertical">
+
+
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*" />
+                    <ColumnDefinition Width="2*" />
+                    <ColumnDefinition Width="1*" />
+                    <ColumnDefinition Width="2*" />
+                    <ColumnDefinition Width="1*" />
+                </Grid.ColumnDefinitions>
+                <Border Grid.Column="0">
+                    <TextBlock
+                        Width="80"
+                        Height="16"
+                        Margin="40,10,-30,0"
+                        Style="{StaticResource NormalText}"
+                        Text="FirstName"
+                        TextAlignment="Center" />
+                </Border>
+                <Border Grid.Column="1">
+                    <TextBlock
+                        Width="80"
+                        Height="16"
+                        Margin="10,10,-10,0"
+                        Style="{StaticResource NormalText}"
+                        Text="LastName"
+                        TextAlignment="Center" />
+                </Border>
+                <Border Grid.Column="2">
+                    <TextBlock
+                        Width="60"
+                        Height="16"
+                        Margin="-20,10,0,0"
+                        Style="{StaticResource NormalText}"
+                        Text="Age"
+                        TextAlignment="Center" />
+                </Border>
+                <Border Grid.Column="3">
+                    <TextBlock
+                        Width="100"
+                        Height="16"
+                        Margin="-40,10,0,0"
+                        Style="{StaticResource NormalText}"
+                        Text="Date Of Birth"
+                        TextAlignment="Center" />
+                </Border>
+                <Border Grid.Column="4">
+                    <TextBlock
+                        Width="50"
+                        Height="16"
+                        Margin="-50,10,0,0"
+                        Style="{StaticResource NormalText}"
+                        Text="GPA"
+                        TextAlignment="Center" />
+                </Border>
+            </Grid>
+
+        </StackPanel>
+        
+        
+       
+
+        <ListView
+            Width="500"
+            Height="327"
+            ItemsSource="{Binding Students, UpdateSourceTrigger=PropertyChanged}"
+            SelectedItem="{Binding Edit_student, UpdateSourceTrigger=PropertyChanged}"
+            SelectionChanged="Listview_SelectionChanged">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Border
+                        Width="400"
+                        Margin="10,0,10,0"
+                        Padding="5"
+                        HorizontalAlignment="Center"
+                        Background="#342D7E"
+                        BorderBrush="Black"
+                        BorderThickness="2"
+                        CornerRadius="5">
+
+
+
+
+                        <StackPanel
+                            Grid.ColumnSpan="5"
+                            Background="LightGreen"
+                            Orientation="Horizontal">
+                            <Image Width="30" Source="{Binding ImageURL}" />
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="1*" />
+                                    <ColumnDefinition Width="2*" />
+                                    <ColumnDefinition Width="2*" />
+                                    <ColumnDefinition Width="1*" />
+                                    <ColumnDefinition Width="2*" />
+                                    <ColumnDefinition Width="1*" />
+                                </Grid.ColumnDefinitions>
+                                <Border Grid.Column="0">
+                                    <TextBlock
+                                        Width="50"
+                                        Margin="5,10,10,10"
+                                        Background="lightGreen"
+                                        Text="{Binding FirstName, UpdateSourceTrigger=PropertyChanged}"
+                                        TextAlignment="Left" />
+                                </Border>
+                                <Border Grid.Column="1">
+                                    <TextBlock
+                                        Width="50"
+                                        Margin="15,10,10,10"
+                                        Background="lightGreen"
+                                        Text="{Binding LastName, UpdateSourceTrigger=PropertyChanged}"
+                                        TextAlignment="Left" />
+                                </Border>
+                                <Border Grid.Column="2">
+                                    <TextBlock
+                                        Width="20"
+                                        Margin="10,10,10,10"
+                                        Background="lightGreen"
+                                        Text="{Binding Age, UpdateSourceTrigger=PropertyChanged}"
+                                        TextAlignment="Left" />
+                                </Border>
+                                <Border Grid.Column="3">
+                                    <TextBlock
+                                        Width="80"
+                                        Margin="10,10,10,10"
+                                        Background="lightGreen"
+                                        Text="{Binding DateOfBirth, UpdateSourceTrigger=PropertyChanged}"
+                                        TextAlignment="Left" />
+                                </Border>
+                                <Border Grid.Column="4">
+                                    <TextBlock
+                                        Margin="5,10,10,10"
+                                        Background="lightGreen"
+                                        Text="{Binding GPA, UpdateSourceTrigger=PropertyChanged}" />
+                                </Border>
+                            </Grid>
+                        </StackPanel>
+
+
+                    </Border>
+
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+
+        <StackPanel
+            Width="500"
+            Height="65"
+            Orientation="Horizontal">
+
+            <Button Width="120"
+        Height="41"
+        Margin="20,20,0,0"
+        Padding="10"
+        Click="Button_Click"
+        Command="{Binding AddStudentCommand}"
+        Content="Add Student"
+        FontSize="12">
+                <Button.Style>
+                    <Style TargetType="Button">
+                        <Setter Property="Background" Value="#2B65EC" />
+                        <Setter Property="Foreground" Value="White" />
+                        <Setter Property="BorderBrush" Value="#216491" />
+                        <Setter Property="BorderThickness" Value="2" />
+                        <Setter Property="FontSize" Value="12" />
+                        <Setter Property="Template">
+                            <Setter.Value>
+                                <ControlTemplate TargetType="Button">
+                                    <Grid>
+                                        <Border x:Name="ButtonBorder"
+                                    Background="{TemplateBinding Background}"
+                                    BorderBrush="{TemplateBinding BorderBrush}"
+                                    BorderThickness="{TemplateBinding BorderThickness}"
+                                    CornerRadius="5">
+                                            <ContentPresenter HorizontalAlignment="Center"
+                                                  VerticalAlignment="Center" />
+                                        </Border>
+                                    </Grid>
+                                    <ControlTemplate.Triggers>
+                                        <Trigger Property="IsMouseOver" Value="True">
+                                            <Setter TargetName="ButtonBorder" Property="Background" Value="#0D68A6" />
+                                            <Setter TargetName="ButtonBorder" Property="BorderBrush" Value="#0D68A6" />
+                                        </Trigger>
+                                        <Trigger Property="IsPressed" Value="True">
+                                            <Setter TargetName="ButtonBorder" Property="Background" Value="#004B87" />
+                                            <Setter TargetName="ButtonBorder" Property="BorderBrush" Value="#004B87" />
+                                        </Trigger>
+                                    </ControlTemplate.Triggers>
+                                </ControlTemplate>
+                            </Setter.Value>
+                        </Setter>
+                    </Style>
+                </Button.Style>
+            </Button>
+
+
+
+            <Button Width="120"
+        Height="41"
+        Margin="50,20,-5,0"
+        Padding="10"
+        Command="{Binding RemoveStudentCommand}"
+        Content="Delete Student"
+        FontSize="12">
+                <Button.Style>
+                    <Style TargetType="Button">
+                        <Setter Property="Background" Value="#2B65EC" />
+                        <Setter Property="Foreground" Value="White" />
+                        <Setter Property="BorderBrush" Value="#216491" />
+                        <Setter Property="BorderThickness" Value="2" />
+                        <Setter Property="FontSize" Value="12" />
+                        <Setter Property="Template">
+                            <Setter.Value>
+                                <ControlTemplate TargetType="Button">
+                                    <Grid>
+                                        <Border x:Name="ButtonBorder"
+                                    Background="{TemplateBinding Background}"
+                                    BorderBrush="{TemplateBinding BorderBrush}"
+                                    BorderThickness="{TemplateBinding BorderThickness}"
+                                    CornerRadius="5">
+                                            <ContentPresenter HorizontalAlignment="Center"
+                                                  VerticalAlignment="Center" />
+                                        </Border>
+                                    </Grid>
+                                    <ControlTemplate.Triggers>
+                                        <Trigger Property="IsMouseOver" Value="True">
+                                            <Setter TargetName="ButtonBorder" Property="Background" Value="#0D68A6" />
+                                            <Setter TargetName="ButtonBorder" Property="BorderBrush" Value="#0D68A6" />
+                                        </Trigger>
+                                        <Trigger Property="IsPressed" Value="True">
+                                            <Setter TargetName="ButtonBorder" Property="Background" Value="#004B87" />
+                                            <Setter TargetName="ButtonBorder" Property="BorderBrush" Value="#004B87" />
+                                        </Trigger>
+                                    </ControlTemplate.Triggers>
+                                </ControlTemplate>
+                            </Setter.Value>
+                        </Setter>
+                    </Style>
+                </Button.Style>
+            </Button>
+
+
+            <Button Width="120"
+        Height="41"
+        Margin="53,20,0,0"
+        Padding="10"
+        Command="{Binding EditStudentCommand}"
+        Content="Edit Student"
+        FontSize="12">
+                <Button.Style>
+                    <Style TargetType="Button">
+                        <Setter Property="Background" Value="#2B65EC" />
+                        <Setter Property="Foreground" Value="White" />
+                        <Setter Property="BorderBrush" Value="#216491" />
+                        <Setter Property="BorderThickness" Value="2" />
+                        <Setter Property="FontSize" Value="12" />
+                        <Setter Property="Template">
+                            <Setter.Value>
+                                <ControlTemplate TargetType="Button">
+                                    <Grid>
+                                        <Border x:Name="ButtonBorder"
+                                    Background="{TemplateBinding Background}"
+                                    BorderBrush="{TemplateBinding BorderBrush}"
+                                    BorderThickness="{TemplateBinding BorderThickness}"
+                                    CornerRadius="5">
+                                            <ContentPresenter HorizontalAlignment="Center"
+                                                  VerticalAlignment="Center" />
+                                        </Border>
+                                    </Grid>
+                                    <ControlTemplate.Triggers>
+                                        <Trigger Property="IsMouseOver" Value="True">
+                                            <Setter TargetName="ButtonBorder" Property="Background" Value="#0D68A6" />
+                                            <Setter TargetName="ButtonBorder" Property="BorderBrush" Value="#0D68A6" />
+                                        </Trigger>
+                                        <Trigger Property="IsPressed" Value="True">
+                                            <Setter TargetName="ButtonBorder" Property="Background" Value="#004B87" />
+                                            <Setter TargetName="ButtonBorder" Property="BorderBrush" Value="#004B87" />
+                                        </Trigger>
+                                    </ControlTemplate.Triggers>
+                                </ControlTemplate>
+                            </Setter.Value>
+                        </Setter>
+                    </Style>
+                </Button.Style>
+            </Button>
+
+        </StackPanel>
+
+
+    </StackPanel>
+    
+
+</Window>
